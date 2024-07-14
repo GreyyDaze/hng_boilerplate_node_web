@@ -171,6 +171,10 @@ Our database design ensures robustness and scalability, supporting the functiona
 15. **ActivityLog**
 16. **ContentItem**
 
+### Database Schema Tables Image
+
+![DB Tables Screenshot](techwizzy_db_design.png)
+
 ### Link to Design File
 
 https://drive.google.com/file/d/1KkDHaZnvsMiMqxy5JGFxwFEQhiQMMQAa/view?usp=sharing
