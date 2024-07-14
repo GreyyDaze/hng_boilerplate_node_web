@@ -1,4 +1,4 @@
-# Team TechWizzy  ReadMe
+# Team TechWizzy ReadMe
 
 ## Project Overview
 
@@ -143,6 +143,7 @@ project-root
 - **POST /invite**
 
 ### Link to Api Design YAML File Repo
+
 https://github.com/GreyyDaze/hng-be-stage3-yamlfile
 
 ## Database Design
@@ -150,7 +151,6 @@ https://github.com/GreyyDaze/hng-be-stage3-yamlfile
 ### Overview
 
 Our database design ensures robustness and scalability, supporting the functionalities outlined in the API design.
-
 
 ### Database Schema Tables
 
@@ -171,10 +171,6 @@ Our database design ensures robustness and scalability, supporting the functiona
 15. **ActivityLog**
 16. **ContentItem**
 
-(Add more tables as per your design)
-
 ### Link to Design File
 
 https://drive.google.com/file/d/1KkDHaZnvsMiMqxy5JGFxwFEQhiQMMQAa/view?usp=sharing
-
-
